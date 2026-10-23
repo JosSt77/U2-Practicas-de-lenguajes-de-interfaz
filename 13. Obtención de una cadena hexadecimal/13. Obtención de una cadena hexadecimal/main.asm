@@ -2,7 +2,7 @@
 ; Alumno: Sotelo Izaguirre José Ángel
 ; Horario: 10-11
 ; Docente: Dr. José Luis Medina Jiménez
-; Práctica: 12. Obtención de una cadena hexadecimal
+; Práctica: 13. Obtención de una cadena hexadecimal
 ; Descripción: Convierte el valor numérico en una cadena de texto con su representación hexadecimal. Se extrae cada nibble 
 ;			con la máscara 0Fh, se convierte a su código ASCII, se guarda en un buffer de nueve bytes de derecha a izquierda 
 ;			y se desplaza el valor cuatro bits para obtener el siguiente dígito.
