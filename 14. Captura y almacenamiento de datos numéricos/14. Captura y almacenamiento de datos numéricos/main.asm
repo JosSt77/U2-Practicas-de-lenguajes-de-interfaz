@@ -10,6 +10,7 @@
 INCLUDE Irvine32.inc
 
 .data
+
 ;Se establecen los mensajes que se mostrarán a lo largo del código
 msgIngresoDatos BYTE "Ingrese las unidades recibidas: ", 0
 msgCadenaInvalida BYTE "El programa solo acepta cadenas entre 1 y 99.", 0dh, 0ah, 0
