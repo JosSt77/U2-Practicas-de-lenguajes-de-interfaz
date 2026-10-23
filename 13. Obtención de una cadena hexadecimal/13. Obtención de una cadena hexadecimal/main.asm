@@ -8,6 +8,7 @@
 ;			y se desplaza el valor cuatro bits para obtener el siguiente dígito.
 INCLUDE Irvine32.inc
 .data
+
 ;Se establecen los mensajes que se mostrarán a lo largo del código
 msgHexadecimal BYTE "Numero hexadecimal: 12AB34CD", 0
 msgResultado   BYTE "Cadena obtenida: ", 0 
