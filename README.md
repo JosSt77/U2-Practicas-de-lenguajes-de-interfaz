@@ -8,7 +8,7 @@
 
 
 ## Índice de Prácticas
-1. [Práctica 1: Ciclos numéricos]([ruta_pendiente](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/1.%20Ciclos%20num%C3%A9ricos/1.%20Ciclos%20num%C3%A9ricos/main.asm))
+1. [Práctica 1: Ciclos numéricos]((https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/1.%20Ciclos%20num%C3%A9ricos/1.%20Ciclos%20num%C3%A9ricos/main.asm)
 2. [Práctica 2: Captura y desplegado de mensajes](ruta_pendiente)
 3. [Práctica 3: Comparación y prueba](ruta_pendiente)
 4. [Práctica 4: Saltos](ruta_pendiente)
