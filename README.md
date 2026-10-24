@@ -12,7 +12,7 @@
 2. [Práctica 2: Captura y desplegado de mensajes](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/2.%20Captura%20y%20desplegado%20de%20mensajes/2.%20Captura%20y%20desplegado%20de%20mensajes/main.asm)
 3. [Práctica 3: Comparación y prueba](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/3.%20Comparaci%C3%B3n%20y%20prueba/3.%20Comparaci%C3%B3n%20y%20prueba/main.asm)
 4. [Práctica 4: Saltos](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/4.%20Saltos/4.%20Saltos/main.asm)
-   * [4.1. Mayor, menor o igual con entrada del usuario]((https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/4.1.%20Mayor%2C%20menor%20o%20igual%20con%20entrada%20del%20usuario/4.1.%20Mayor%2C%20menor%20o%20igual%20con%20entrada%20del%20usuario/main.asm)
+   * [4.1. Mayor, menor o igual con entrada del usuario](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/4.1.%20Mayor%2C%20menor%20o%20igual%20con%20entrada%20del%20usuario/4.1.%20Mayor%2C%20menor%20o%20igual%20con%20entrada%20del%20usuario/main.asm)
 5. [Práctica 5: Condicionales](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/5.%20Condicionales/5.%20Condicionales/main.asm)
    * [5.1. Repetir hasta que el usuario ingrese cero](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/5.1.%20Repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/5.1.%20Repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/main.asm)
 6. [Práctica 6: Decremento e incremento](https://github.com/JosSt77/U2-Practicas-de-lenguajes-de-interfaz/blob/main/6.%20Decremento%20e%20incremento/6.%20Decremento%20e%20incremento/main.asm)
